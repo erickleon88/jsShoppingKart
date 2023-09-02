@@ -95,5 +95,3 @@ let allItems = () => {
 
 //La invocamos para que se ejecute siempre y nos haga un refrescado rapido de los items que tiene el carrito
 allItems();
-
-//Minuto donde me quede, Tema: pagina mostrar carrito https://youtu.be/cT_ZYrS3tKc?t=7141
